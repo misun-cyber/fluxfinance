@@ -1,5 +1,4 @@
 streamlit
 google-generativeai
 pandas
-pywin32
 openpyxl
